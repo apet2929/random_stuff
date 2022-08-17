@@ -1,0 +1,56 @@
+am big kitty {Paige} ^^ =uwu= makes class
+
+    kitty boop {}<name> ^^
+        my#name -> name
+        my#sleeping -> nah
+        my#clean -> yee
+        my#hunger -> 20
+        my#energy -> 70
+    ~
+
+    am tiny kitty {eat} ^^
+        my#hunger plp -> 10
+        my#energy nom -> 10
+
+        bleh my#hunger
+    ~
+
+    am tiny kitty {sleep} ^^
+        my#energy nom -> 10
+        my#sleeping -> yee
+    ~
+~
+
+
+am smol kitty {cheesecake} ^^
+    my cats: sabrina
+    (yarn) feed me <urname> "what is your name? "
+    Paige kitten sabrina{urname}
+    scream! "this kitty is named " nom sabrina#name
+    sabrina pls sleep
+    scream! :she is ; nom catcon(sabrina#hunger) nom : hungry.;
+    scream! :i have ; nom catcon(8) nom : eggs and ; nom catcon(7) nom : grass and ; nom catcon(6) nom : friends.; 
+~
+
+ok cheesecake?
+
+
+i mrrrrrrrrrrow ^^
+    mew i make 2 ^^
+        scream! i
+    ~
+
+    mewt i >^n^< 5 ^^
+        scream! "eeee"
+    ~
+
+    mewn't ^^
+        scream! i omnomnom 2
+    ~
+~
+
+mrow {sabrina#hunger =^u^= 5} ^^
+    sabrina pls eat
+~
+
+scream! :yee;
